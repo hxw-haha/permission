@@ -2,6 +2,7 @@
 Android 权限申请
 
 ------
+
 PermissionManager.factoryBuilder(this)
         .addPermission(
                 Manifest.permission.READ_EXTERNAL_STORAGE,
