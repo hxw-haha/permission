@@ -1,7 +1,6 @@
 # permission
 Android 权限申请
 
-------
 
 PermissionManager.factoryBuilder(this)
         .addPermission(
